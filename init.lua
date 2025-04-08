@@ -1,0 +1,2 @@
+require("king")
+print("hello")
